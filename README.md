@@ -4,6 +4,7 @@ This repository contains all supplementary code that were used in the undergradu
 "Wind Map Modeling for West Java Region and Analysis with Indonesian Disaster Map"
 
 by Hafidz Rizky Firmansyah, Bandung Institute of Technology, Indonesia, 2021
+
 Faculty of Civil and Environmental Engineering, Civil Engineering Department
 
 The comprehensive results of this study were published in International Journal of Disaster Risk Science (IJDRS), 2022, with the authors of:
