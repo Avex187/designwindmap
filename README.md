@@ -33,3 +33,6 @@ The hypothesis in this final project is the area with a large number of incident
 After the LMOM analytical method is obtained and produces a wind map that has the smallest RMSE, this calculation can be applied to all regions in Indonesia to produce a comprehensive wind map with various return periods for the purposes of risk-based building design and building service life.
 
 Keywords: Wind Map, Return Period, Gumbel Distribution, Risk Based Design,  ERA5, Analytical Method
+
+## Design Wind Map Results for Western Java, Indonesia
+![alt text](https://github.com/hafidzrf/designwindmap/blob/main/images/wind_maps.webp)
