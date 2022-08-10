@@ -35,4 +35,7 @@ After the LMOM analytical method is obtained and produces a wind map that has th
 Keywords: Wind Map, Return Period, Gumbel Distribution, Risk Based Design,  ERA5, Analytical Method
 
 ## Design Wind Map Results for Western Java, Indonesia (m/s)
-![alt text](https://github.com/hafidzrf/designwindmap/blob/main/images/wind_maps.webp)
+![alt text](https://github.com/hafidzrf/designwindmap/blob/main/images/wind_maps.webp) <br />
+
+## Analysis with Indonesian Disaster Maps (source BNPB)
+![alt text](https://github.com/hafidzrf/designwindmap/blob/main/images/disaster_maps.png)
